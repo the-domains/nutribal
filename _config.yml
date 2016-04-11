@@ -1,0 +1,28 @@
+name: Nutribal
+favicon: null
+layout_spectrum: 0.9482757372315973
+typography_spectrum: 0.5345818344503641
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6736739785410464
+  lightness: 0.2418838555458933
+  saturation: 0.32364817010238767
+  rhythmicContrast: 0.27621248736977577
+purpose: []
